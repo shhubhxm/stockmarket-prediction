@@ -16,4 +16,4 @@ The predicted value of the 'Close' is very similar to the testing dataset.
 
 ##
 - The Website Repo: [here](https://github.com/shhubhxm/StockMarketPrediction_StreamlitApp)
-- Streamlit App: [here](https://cutt.ly/stockforecasting)
+- Streamlit App: [here](https://share.streamlit.io/devsavsani/stockmarketprediction_streamlitapp/main/app.py)
