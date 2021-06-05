@@ -11,6 +11,7 @@ The rmse obtaines is : 19.365426259662144 on 'Close' price ranging from (111.868
 
 ## Testing dataset
 The predicted value of the 'Close' is very similar to the testing dataset.
+
 <span style="display:block;text-align:center">![](images/validation.png)</span>
 
 ##
